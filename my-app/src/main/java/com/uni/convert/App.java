@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.uni.convert;
 
 /**
  * Hello world!
